@@ -7,10 +7,10 @@ body {
 .brand-logo {
     font-size: 24px !important;
     color: #fff;
-    margin-right: 20px;
-    background: url('') no-repeat 20px 9px;
+    margin-right: 10px;
+    background: url('../imagens/logo_transparent.png') no-repeat 1px 2px;
     background-size: 48px 48px;
-    padding-left: 80px !important;
+    padding-left: 50px !important;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
